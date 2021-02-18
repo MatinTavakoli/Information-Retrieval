@@ -1,5 +1,5 @@
 # Information-Retrieval
-A search-engine for persian documents
+A search engine for persian documents
 
 ## Phases
 Phase 1: Building the Inverted Index <br>
